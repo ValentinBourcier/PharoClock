@@ -16,7 +16,7 @@ BaselineOfClock >> baseline: spec [
 	
 ]
 
-{ #category : 'as yet unclassified' }
+{ #category : 'baselines' }
 BaselineOfClock >> openClock [
 
 	ClockPresenter new open
